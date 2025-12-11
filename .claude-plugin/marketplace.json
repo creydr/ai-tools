@@ -3,6 +3,10 @@
   "owner": {
     "name": "creydr"
   },
+  "metadata": {
+    "description": "Marketplace with collection of some useful plugins",
+    "version": "0.0.1"
+  },
   "plugins": [
     {
       "name": "release-next-fix",
