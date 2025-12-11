@@ -1,0 +1,16 @@
+{
+  "name": "creydr-tools",
+  "owner": {
+    "name": "creydr"
+  },
+  "plugins": [
+    {
+      "name": "release-next-fix",
+      "source": {
+        "source": "github",
+        "repo": "creydr/release-next-fix-plugin"
+      },
+      "description": "release-next branch fix"
+    }
+  ]
+}
